@@ -1,0 +1,8 @@
+Changes in V2.6:
+-	Statement included into the GUI to highlight the importance of the alignment quality
+-	Option included to start Clustal Omega or Muscle sequence alignments via the EMBL-EBI webtools
+-	Zooming option added to “Detailed view”
+-	Peptides in “Detailed view” are now displayed in black instead of magenta
+-	Warning added to “make logo”: If length restriction is checked but no peptides exists with this length, the warning message “no peptides found with given length“ appears
+-	Note after “Start Analysis” changed to “path to directory where output files are stored is shown below…”
+-	Horizontal bar plot button changed to “partition overview”
